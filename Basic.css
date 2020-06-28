@@ -1,0 +1,22 @@
+*{margin:0;padding:0}
+.body {font-family: arial}
+.main{width: 700px;Margin:10px auto}
+.main p {margin-bottom: 10px}
+.header{}
+.header img {width: 700px;height: auto;opacity: .5}
+.mainmenu {background: red;overflow:hidden;margin-bottom:20px}
+.mainmenu ul {list-style: none;margin-bottom: px}
+.mainmenu ul li {float: left}
+.mainmenu ul li a {color: aqua;padding:10px;display: block; text-decoration: none}
+.mainmenu ul li a:hover{background: black}
+.maincontent {overflow: hidden;margin-top: 20px}
+.left-content {float: left;width: 400px;}
+.right-content {float: right;width: 160px; height: auto; background-color: blue}
+.right-content ul {margin: 0;padding: 0;list-style: none}
+.right-content ul li {display: block}
+.right-content ul li a {display: block;padding: 15px;text-decoration: none}
+.footer {background: red;color:azure;padding: 10px;text-align:  center}
+body.theme-green .mainmenu{background-color: green}
+.r {
+    margin: 10px auto;
+}
